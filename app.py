@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 
 # Your bot API
-BOT_API_BASE_URL = "https://your-bot-project-name.up.railway.app"
+BOT_API_BASE_URL = "https://your-render-project.onrender.com"
 BOT_API_PORT = "30151"
 
 # ---------- LOGIN FIRST ----------
